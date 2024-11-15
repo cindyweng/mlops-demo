@@ -19,7 +19,7 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates # Template Repo
-      name: mlops-templates
+      name: cindyweng/mlops-templates
       type: github
       endpoint: github-connection
       ref: main
