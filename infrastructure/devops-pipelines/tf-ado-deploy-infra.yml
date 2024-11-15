@@ -21,7 +21,7 @@ resources:
     - repository: mlops-templates # Template Repo
       name: mlops-templates
       type: github
-      endpoint: https://github.com/cindyweng/mlops-templates
+      endpoint: github-connection
       ref: main
 
 stages:
